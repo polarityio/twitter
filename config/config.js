@@ -23,7 +23,7 @@ module.exports = {
    * @optional
    */
   description:
-    "Searches on Twitter for Public Content",
+    "Using the google search engines, Polarity searches for public content on Twitter.",
   entityTypes: ['hash','ip','domain', 'cve'],
   customTypes:[
     {
@@ -36,7 +36,7 @@ module.exports = {
     },
     {
       key: '@handle',
-      regex: /@(\w){1,24}/
+      regex: /@(\w){1,16}/
     }
   ],
   defaultColor: 'light-gray',

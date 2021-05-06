@@ -1,12 +1,12 @@
 # Polarity Twitter Integration
 
-The Polarity Twitter integration uses the Google search API to search for threat and social information on twitter.
+The Polarity Twitter integration uses the Google search API to search for twitter for related tweets around your search parameters.
 
 * Twitter.com
 
-| ![image](assets/overlay2.png)  | ![image](assets/overlay.png)
+| ![image](assets/overlay.png)
 |---|---|
-|*Twitter example* | *Search options example*|
+|*Twitter example* |
 
 ## Twitter Integration Options
 
