@@ -5,6 +5,7 @@ The Polarity Twitter integration uses the Google search API to search for twitte
 * Twitter.com
 
 | ![image](assets/overlay.png)
+
 |---|---|
 |*Twitter example* |
 
