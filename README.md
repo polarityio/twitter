@@ -25,7 +25,6 @@ A free account allows for up to 100 search queries per day.
 
 Once the API key has been generated, input the information into the API Key field in the integration and start searching for exploits. 
 
-
 ## Polarity
 
 Polarity is a memory-augmentation platform that improves and accelerates analyst decision making.  For more information about the Polarity platform please see:
