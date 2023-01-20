@@ -1,11 +1,11 @@
 {
-    "main": "./integration.js",
-    "name": "twitter",
-    "version": "3.0.1-beta",
-    "private": true,
-    "dependencies": {
-      "request": "^2.88.2",
-      "async": "^3.2.0",
-      "uuid": "^8.3.2"
-    }
+  "name": "twitter",
+  "version": "3.0.2-beta",
+  "main": "./integration.js",
+  "private": true,
+  "dependencies": {
+    "async": "^3.2.0",
+    "postman-request": "^2.88.1-postman.31",
+    "uuid": "^8.3.2"
   }
+}
