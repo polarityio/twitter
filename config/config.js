@@ -31,8 +31,8 @@ module.exports = {
       regex: /KB\s?[0-9]{7}/
     },
     {
-      key: 'all text',
-      regex: /^[\s\S]{2,2048}/
+      key: 'allText',
+      regex: /\S[\s\S]{2,2048}\S/
     },
     {
       key: '@handle',
