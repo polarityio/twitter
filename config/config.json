@@ -3,11 +3,7 @@
   "name": "Twitter",
   "acronym": "T",
   "description": "Using the google search engines, Polarity searches for public content on Twitter.",
-  "entityTypes": [
-    "hash",
-    "domain",
-    "cve"
-  ],
+  "entityTypes": ["MD5", "SHA1", "SHA256", "IPv4", "IPv6", "domain", "cve"],
   "customTypes": [
     {
       "key": "kb",
@@ -23,9 +19,7 @@
     }
   ],
   "defaultColor": "light-blue",
-  "styles": [
-    "./styles/style.less"
-  ],
+  "styles": ["./styles/style.less"],
   "block": {
     "component": {
       "file": "./components/block.js"
@@ -33,13 +27,6 @@
     "template": {
       "file": "./templates/block.hbs"
     }
-  },
-  "request": {
-    "cert": "",
-    "key": "",
-    "passphrase": "",
-    "ca": "",
-    "proxy": ""
   },
   "logging": {
     "level": "info"
